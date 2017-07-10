@@ -50,7 +50,7 @@ class Html extends Component {
           <meta charSet="utf-8" />
           <meta
             name="description"
-            content="Gatsbygram: A clone of Instagram built with GatsbyJS"
+            content="ABSgram: A clone of Instagram built with GatsbyJS"
           />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <link rel="icon" type="image/png" href={logo} />
@@ -58,7 +58,7 @@ class Html extends Component {
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
-          <title>Gatsbygram</title>
+          <title>ABSgram</title>
           <TypographyStyle typography={typography} />
           {css}
         </head>
