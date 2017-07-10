@@ -9,24 +9,14 @@ class About extends React.Component {
           padding: rhythm(3 / 4),
         }}
       >
-        <h1>About Gatsbygram</h1>
+        <h1>About ABSgram</h1>
         <p>
-          Gatsbygram is an example website built with the JavaScript web
-          framework
+          ABSgram is a fork of Gatsbygram, which is both an Instagram clone and an example of
           {` `}
           <a target="_blank" href="https://github.com/gatsbyjs/gatsby">
             Gatsby
           </a>
           .
-        </p>
-        <p>
-          The code for the site lives at{` `}
-          <a
-            href="https://github.com/gatsbyjs/gatsby/tree/1.0/examples/gatsbygram"
-            target="_blank"
-          >
-            https://github.com/gatsbyjs/gatsby/tree/1.0/examples/gatsbygram
-          </a>
         </p>
         <p>
           <a href="https://www.gatsbyjs.org/blog/gatsbygram-case-study/">
