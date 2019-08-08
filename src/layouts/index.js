@@ -1,6 +1,6 @@
 import * as PropTypes from "prop-types"
 import React from "react"
-import CameraIcon from "react-icons/lib/fa/camera-retro"
+import logo from "./static/images/logo.png"
 import Link from "gatsby-link"
 
 // Load the css for the Space Mono font.
